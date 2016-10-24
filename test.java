@@ -8,4 +8,5 @@ public function test() {
 	totorister 3
 	
 	myeclipse commit
+	myeclipse commit2
 }
