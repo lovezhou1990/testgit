@@ -6,4 +6,6 @@ public function test() {
 	totorister commit2
 	
 	totorister 3
+	
+	myeclipse commit
 }
