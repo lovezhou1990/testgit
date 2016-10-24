@@ -4,4 +4,6 @@ public function test() {
 	
 	totorister commit
 	totorister commit2
+	
+	totorister 3
 }
