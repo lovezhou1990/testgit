@@ -3,4 +3,5 @@ public function test() {
 	java
 	
 	totorister commit
+	totorister commit2
 }
