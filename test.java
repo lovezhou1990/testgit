@@ -10,4 +10,6 @@ public function test() {
 	myeclipse commit
 	myeclipse commit2
 	myeclipse commit3
+	
+	myeclipse commit4
 }
